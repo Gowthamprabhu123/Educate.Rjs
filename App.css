@@ -1,0 +1,161 @@
+.box {
+  border: 0px solid black;
+  height: 10vh;
+  width: 55%;
+  gap: 3rem;
+  padding-left:600px ;
+  background-color: #090909;
+  display: flex;
+  font-size: 30px;
+  position: static;
+  font-style: italic;
+ color: #cef188;
+
+}
+
+.im{
+position: absolute;
+width: 200px;
+height: 90px;
+  margin-top: 0%;
+  padding-left: 0%;
+}
+.cont2 {
+  margin: 5%;
+
+}
+
+.wel {
+  text-align: center;
+}
+
+.big {
+  font-size: 20px;
+}
+.mar{
+  margin-top: 75px;
+}
+
+.col {
+  background-color: darkgreen;
+  color: aliceblue;
+
+}
+
+.input {
+  margin-top: 2%;
+  margin-left: 520px;
+
+}
+
+.input input {
+  background-color: #e7ca78;
+  padding: 1px;
+  margin-left: 200px;
+  margin: 5px;
+text-align: center;
+}
+
+.sub {
+  margin-left: 580px;
+  background-color: darkgreen;
+}
+
+.sub1 {
+  margin-left:470px;
+  font-style: oblique;
+  font-size: 25px;
+}
+
+.boxe {
+  border: 1px solid black;
+  background-color: #e7ca78;
+  width: 600px;
+  height: 400px;
+  margin: 20px;
+
+}
+
+.boxe img {
+
+  margin: 20px;
+  margin-top: 30px;
+  margin-left: 30px;
+  height: 200px;
+  width: 340px;
+
+
+}
+
+.boxe2 {
+  border: 1px solid black;
+  background-color: #cef188;
+  width: 400px;
+  margin: 20px;
+  height: 400px;
+}
+
+.boxe2 img {
+
+  margin: 20px;
+  margin-top: 30px;
+  margin-left: 30px;
+  height: 200px;
+  width: 340px;
+
+}
+
+.head1 {
+  margin-top:60px;
+  margin-left: 500px;
+}
+
+.boxe h1 {
+  margin-left: 120px;
+}
+
+.boxe2 h1 {
+  margin-left: 90px;
+}
+
+.click1 {
+
+  background-color: rgb(51, 196, 232);
+  margin-left: 130px;
+  border-radius: 30px;
+  margin-top: 10px;
+
+
+}
+
+.click2 {
+
+  background-color: rgb(51, 196, 232);
+  margin-left: 130px;
+  border-radius: 30px;
+}
+
+.click3 {
+
+  background-color: rgb(51, 196, 232);
+  margin-left: 130px;
+  border-radius: 30px;
+}
+
+.prop {
+  margin-top: 2%;
+  margin-left: 450px;
+}
+
+.log {
+  padding-left: 590px;
+  
+}
+
+.add {
+  background-color: yellow;
+}
+.props
+{
+  text-align: center;
+}

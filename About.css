@@ -1,0 +1,12 @@
+.container1{
+    border: 0px solid black;
+    width: 1200px;
+    height: 400px;
+    margin-top: 50px;
+    display: flex;
+    font-size: 20px;
+}
+.Down1{
+    margin: 5%;
+    margin-left: 0%;
+}
